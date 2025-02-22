@@ -1,7 +1,6 @@
 import streamlit as st
 import os
 import pandas as pd
-import matplotlib.pyplot as plt
 from io import BytesIO, StringIO
 from decouple import config
 from langchain import PromptTemplate
